@@ -1,0 +1,24 @@
+C:\Users\tsuki\source\repos\ListAppV2\ListAppV2\obj\Debug\ListAppV2.csproj.AssemblyReference.cache
+C:\Users\tsuki\source\repos\ListAppV2\ListAppV2\obj\Debug\ListAppV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsuki\source\repos\ListAppV2\ListAppV2\obj\Debug\ListAppV2.csproj.CoreCompileInputs.cache
+C:\Users\tsuki\source\repos\ListAppV2\ListAppV2\bin\Debug\ListAppV2.exe.config
+C:\Users\tsuki\source\repos\ListAppV2\ListAppV2\bin\Debug\ListAppV2.exe
+C:\Users\tsuki\source\repos\ListAppV2\ListAppV2\bin\Debug\ListAppV2.pdb
+C:\Users\tsuki\source\repos\ListAppV2\ListAppV2\obj\Debug\ListAppV2.exe
+C:\Users\tsuki\source\repos\ListAppV2\ListAppV2\obj\Debug\ListAppV2.pdb
+C:\Users\tsuki\Documents\bkp do LispApp2\ListAppV2\ListAppV2\bin\Debug\ListAppV2.exe.config
+C:\Users\tsuki\Documents\bkp do LispApp2\ListAppV2\ListAppV2\bin\Debug\ListAppV2.exe
+C:\Users\tsuki\Documents\bkp do LispApp2\ListAppV2\ListAppV2\bin\Debug\ListAppV2.pdb
+C:\Users\tsuki\Documents\bkp do LispApp2\ListAppV2\ListAppV2\obj\Debug\ListAppV2.csproj.AssemblyReference.cache
+C:\Users\tsuki\Documents\bkp do LispApp2\ListAppV2\ListAppV2\obj\Debug\ListAppV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsuki\Documents\bkp do LispApp2\ListAppV2\ListAppV2\obj\Debug\ListAppV2.csproj.CoreCompileInputs.cache
+C:\Users\tsuki\Documents\bkp do LispApp2\ListAppV2\ListAppV2\obj\Debug\ListAppV2.exe
+C:\Users\tsuki\Documents\bkp do LispApp2\ListAppV2\ListAppV2\obj\Debug\ListAppV2.pdb
+C:\Users\nherbert\Documents\vs apresenta\ListAppV2\ListAppV2\bin\Debug\ListAppV2.exe.config
+C:\Users\nherbert\Documents\vs apresenta\ListAppV2\ListAppV2\bin\Debug\ListAppV2.exe
+C:\Users\nherbert\Documents\vs apresenta\ListAppV2\ListAppV2\bin\Debug\ListAppV2.pdb
+C:\Users\nherbert\Documents\vs apresenta\ListAppV2\ListAppV2\obj\Debug\ListAppV2.csproj.AssemblyReference.cache
+C:\Users\nherbert\Documents\vs apresenta\ListAppV2\ListAppV2\obj\Debug\ListAppV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nherbert\Documents\vs apresenta\ListAppV2\ListAppV2\obj\Debug\ListAppV2.csproj.CoreCompileInputs.cache
+C:\Users\nherbert\Documents\vs apresenta\ListAppV2\ListAppV2\obj\Debug\ListAppV2.exe
+C:\Users\nherbert\Documents\vs apresenta\ListAppV2\ListAppV2\obj\Debug\ListAppV2.pdb
